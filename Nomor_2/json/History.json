@@ -1,0 +1,124 @@
+{
+    "history": [
+        {
+            "id": 1,
+            "nama": "Fauzan Farhan Antoro",
+            "kode_penerbangan": "PAL001",
+            "kelas": "Bisnis",
+            "tgl_berangkat": "12-12-2021",
+            "jam_berangkat": "12:12:12",
+            "jam_datang": "13:13:13",
+            "penumpang_dewasa": 3,
+            "penumpang_anak": 2,
+            "total": 3192000.0
+        },
+        {
+            "id": 2,
+            "nama": "Anika Andi",
+            "kode_penerbangan": "PAL002",
+            "kelas": "Ekonomi",
+            "tgl_berangkat": "12-12-2021",
+            "jam_berangkat": "11:11:11",
+            "jam_datang": "22:22:22",
+            "penumpang_dewasa": 3,
+            "penumpang_anak": 2,
+            "total": 1890000.0
+        },
+        {
+            "id": 3,
+            "nama": "Bambang Supriyadi",
+            "kode_penerbangan": "PAL002",
+            "kelas": "Ekonomi",
+            "tgl_berangkat": "08-12-2021",
+            "jam_berangkat": "11:11:11",
+            "jam_datang": "22:22:22",
+            "penumpang_dewasa": 3,
+            "penumpang_anak": 2,
+            "total": 1890000.0
+        },
+        {
+            "id": 4,
+            "nama": "Bizantium Magnetius",
+            "kode_penerbangan": "PAL001",
+            "kelas": "Ekonomi",
+            "tgl_berangkat": "05-04-2021",
+            "jam_berangkat": "10:09:00",
+            "jam_datang": "21:00:00",
+            "penumpang_dewasa": 0,
+            "penumpang_anak": 1,
+            "total": 210000.0
+        },
+        {
+            "id": 5,
+            "nama": "Ali Estes",
+            "kode_penerbangan": "PAL001",
+            "kelas": "Bisnis",
+            "tgl_berangkat": "11-10-2021",
+            "jam_berangkat": "07:25:00",
+            "jam_datang": "08:00:00",
+            "penumpang_dewasa": 1,
+            "penumpang_anak": 0,
+            "total": 420000.0
+        },
+        {
+            "id": 6,
+            "nama": "John Smith",
+            "kode_penerbangan": "PAL005",
+            "kelas": "Bisnis",
+            "tgl_berangkat": "13-08-2010",
+            "jam_berangkat": "02:00:09",
+            "jam_datang": "15:09:00",
+            "penumpang_dewasa": 1,
+            "penumpang_anak": 0,
+            "total": 720000.0
+        },
+        {
+            "id": 7,
+            "nama": "Superuddin",
+            "kode_penerbangan": "PAL003",
+            "kelas": "Bisnis",
+            "tgl_berangkat": "11-11-2023",
+            "jam_berangkat": "14:00:00",
+            "jam_datang": "21:00:00",
+            "penumpang_dewasa": 2,
+            "penumpang_anak": 0,
+            "total": 1680000.0
+        },
+        {
+            "id": 8,
+            "nama": "Superuddin",
+            "kode_penerbangan": "PAL001",
+            "kelas": "Ekonomi",
+            "tgl_berangkat": "20-11-2024",
+            "jam_berangkat": "00:00:00",
+            "jam_datang": "05:00:00",
+            "penumpang_dewasa": 1,
+            "penumpang_anak": 0,
+            "total": 350000.0
+        },
+        {
+            "id": 9,
+            "nama": "Awaluddin",
+            "kode_penerbangan": "PAL002",
+            "kelas": "Ekonomi",
+            "tgl_berangkat": "30-11-2019",
+            "jam_berangkat": "19:00:00",
+            "jam_datang": "21:00:00",
+            "penumpang_dewasa": 1,
+            "penumpang_anak": 2,
+            "total": 990000.0
+        },
+        {
+            "id": 10,
+            "nama": "Incredible Smith",
+            "kode_penerbangan": "PAL001",
+            "kelas": "Ekonomi",
+            "tgl_berangkat": "04-04-2022",
+            "jam_berangkat": "12:30:00",
+            "jam_datang": "13:45:30",
+            "penumpang_dewasa": 3,
+            "penumpang_anak": 2,
+            "total": 1470000.0
+        }
+    ]
+}

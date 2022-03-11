@@ -1,0 +1,35 @@
+{
+    "dataTiket": [
+        {
+            "id": 1,
+            "kode_penerbangan": "PAL001",
+            "tujuan": "Semarang",
+            "harga": 350000
+        },
+        {
+            "id": 2,
+            "kode_penerbangan": "PAL002",
+            "tujuan": "Yogyakarta",
+            "harga": 450000
+        },
+        {
+            "id": 3,
+            "kode_penerbangan": "PAL003",
+            "tujuan": "Bali",
+            "harga": 700000
+        },
+        {
+            "id": 4,
+            "kode_penerbangan": "PAL004",
+            "tujuan": "Palembang",
+            "harga": 500000
+        },
+        {
+            "id": 5,
+            "kode_penerbangan": "PAL005",
+            "tujuan": "Balikpapan",
+            "harga": 600000
+        }
+    ],
+    "uang": 9750000.0
+}

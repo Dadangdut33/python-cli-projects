@@ -1,0 +1,59 @@
+{
+    "dataMotor": [
+        {
+            "id": 1,
+            "jenis_motor": "Revo F1 110",
+            "qty": 27,
+            "harga": 12500000
+        },
+        {
+            "id": 2,
+            "jenis_motor": "New Supra X 125 F1",
+            "qty": 30,
+            "harga": 18500000
+        },
+        {
+            "id": 3,
+            "jenis_motor": "Revo F1 110",
+            "qty": 30,
+            "harga": 12500000
+        },
+        {
+            "id": 4,
+            "jenis_motor": "New Beat F1",
+            "qty": 18,
+            "harga": 12000000
+        },
+        {
+            "id": 5,
+            "jenis_motor": "Vega ZR",
+            "qty": 5,
+            "harga": 13500000
+        },
+        {
+            "id": 6,
+            "jenis_motor": "Jupiter Z",
+            "qty": 15,
+            "harga": 14000000
+        },
+        {
+            "id": 7,
+            "jenis_motor": "Jupiter MX",
+            "qty": 15,
+            "harga": 17000000
+        },
+        {
+            "id": 8,
+            "jenis_motor": "Satria FU 150",
+            "qty": 9,
+            "harga": 19500000
+        },
+        {
+            "id": 9,
+            "jenis_motor": "Shogun R 125",
+            "qty": 4,
+            "harga": 14000000
+        }
+    ],
+    "uang": 563500000
+}

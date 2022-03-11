@@ -1,0 +1,53 @@
+{
+    "history": [
+        {
+            "id": 1,
+            "input_a": 9,
+            "input_b": 9,
+            "input_c": 9,
+            "output": 729
+        },
+        {
+            "id": 2,
+            "input_a": 10,
+            "input_b": 10,
+            "input_c": 10,
+            "output": 1000
+        },
+        {
+            "id": 3,
+            "input_a": 4,
+            "input_b": 6,
+            "input_c": 3,
+            "output": 72
+        },
+        {
+            "id": 4,
+            "input_a": 5,
+            "input_b": 6,
+            "input_c": 7,
+            "output": 210
+        },
+        {
+            "id": 5,
+            "input_a": 8,
+            "input_b": 7,
+            "input_c": 9,
+            "output": 504
+        },
+        {
+            "id": 6,
+            "input_a": 3,
+            "input_b": 4,
+            "input_c": 1,
+            "output": 15
+        },
+        {
+            "id": 7,
+            "input_a": 7,
+            "input_b": 5,
+            "input_c": 8,
+            "output": 280
+        }
+    ]
+}

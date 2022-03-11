@@ -1,0 +1,148 @@
+{
+    "history": [
+        {
+            "id": 1,
+            "pembeli": {
+                "nik": "1120091000000412",
+                "nama": "Fauzan Farhan Antoro",
+                "ttl": "Jakarta, 1 Januari 1980",
+                "jenis_kelamin": "Laki-laki",
+                "alamat": "Ciledug",
+                "agama": "Islam",
+                "statusNikah": "Belum Menikah",
+                "pekerjaan": "Belum bekerja",
+                "kewarganegaraan": "Indonesia"
+            },
+            "tgl_pembelian": "07-11-2021",
+            "jenis_motor": "Revo F1 110",
+            "qty": "3",
+            "harga": 37500000
+        },
+        {
+            "id": 2,
+            "pembeli": {
+                "nik": "1120091000000412",
+                "nama": "Fauzan Farhan Antoro",
+                "ttl": "Jakarta, 1 Januari 1980",
+                "jenis_kelamin": "Laki-laki",
+                "alamat": "Ciledug",
+                "agama": "Islam",
+                "statusNikah": "Belum Menikah",
+                "pekerjaan": "Belum bekerja",
+                "kewarganegaraan": "Indonesia"
+            },
+            "tgl_pembelian": "07-11-2021",
+            "jenis_motor": "New Beat F1",
+            "qty": "2",
+            "harga": 24000000
+        },
+        {
+            "id": 3,
+            "pembeli": {
+                "nik": "1120091000000412",
+                "nama": "Fauzan Farhan Antoro",
+                "ttl": "Jakarta, 1 Januari 1980",
+                "jenis_kelamin": "Laki-laki",
+                "alamat": "Ciledug",
+                "agama": "Islam",
+                "statusNikah": "Belum Menikah",
+                "pekerjaan": "Belum bekerja",
+                "kewarganegaraan": "Indonesia"
+            },
+            "tgl_pembelian": "07-11-2021",
+            "jenis_motor": "Satria FU 150",
+            "qty": "1",
+            "harga": 19500000
+        },
+        {
+            "id": 4,
+            "pembeli": {
+                "nik": "1120091000000412",
+                "nama": "Fauzan Farhan Antoro",
+                "ttl": "Jakarta, 1 Januari 1980",
+                "jenis_kelamin": "Laki-laki",
+                "alamat": "Ciledug",
+                "agama": "Islam",
+                "statusNikah": "Belum Menikah",
+                "pekerjaan": "Belum bekerja",
+                "kewarganegaraan": "Indonesia"
+            },
+            "tgl_pembelian": "07-11-2021",
+            "jenis_motor": "Shogun R 125",
+            "qty": "1",
+            "harga": 14000000
+        },
+        {
+            "id": 5,
+            "pembeli": {
+                "nik": "1120091000000112",
+                "nama": "Bambang Supriyadi",
+                "ttl": "Tangerang, 12 Agustus 1969",
+                "jenis_kelamin": "Laki-laki",
+                "alamat": "Kalideres",
+                "agama": "Islam",
+                "statusNikah": "Sudah Menikah",
+                "pekerjaan": "PNS",
+                "kewarganegaraan": "Indonesia"
+            },
+            "tgl_pembelian": "07-11-2021",
+            "jenis_motor": "Jupiter Z",
+            "qty": "3",
+            "harga": 42000000
+        },
+        {
+            "id": 6,
+            "pembeli": {
+                "nik": "1120091000000112",
+                "nama": "Bambang Supriyadi",
+                "ttl": "Tangerang, 12 Agustus 1969",
+                "jenis_kelamin": "Laki-laki",
+                "alamat": "Kalideres",
+                "agama": "Islam",
+                "statusNikah": "Sudah Menikah",
+                "pekerjaan": "PNS",
+                "kewarganegaraan": "Indonesia"
+            },
+            "tgl_pembelian": "07-11-2021",
+            "jenis_motor": "Vega ZR",
+            "qty": "2",
+            "harga": 27000000
+        },
+        {
+            "id": 7,
+            "pembeli": {
+                "nik": "1120091000000412",
+                "nama": "Fauzan Farhan Antoro",
+                "ttl": "Jakarta, 1 Januari 1980",
+                "jenis_kelamin": "Laki-laki",
+                "alamat": "Ciledug",
+                "agama": "Islam",
+                "statusNikah": "Belum Menikah",
+                "pekerjaan": "Belum bekerja",
+                "kewarganegaraan": "Indonesia"
+            },
+            "tgl_pembelian": "07-11-2021",
+            "jenis_motor": "Vega ZR",
+            "qty": "3",
+            "harga": 40500000
+        },
+        {
+            "id": 8,
+            "pembeli": {
+                "nik": "1120091000003333",
+                "nama": "Konpaku",
+                "ttl": "Gensokyo, 1 Januari 1970",
+                "jenis_kelamin": "Perempuan",
+                "alamat": "Gensokyo",
+                "agama": "Islam",
+                "statusNikah": "Belum Menikah",
+                "pekerjaan": "PNS",
+                "kewarganegaraan": "Indonesia"
+            },
+            "tgl_pembelian": "09-11-2021",
+            "jenis_motor": "Jupiter Z",
+            "qty": "2",
+            "harga": 28000000
+        }
+    ]
+}
